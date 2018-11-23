@@ -23,13 +23,13 @@ public class Main {
      */
     public static void main(String[] args) {
 
-
-        String[] arraydocument = new arraydocument(3);
-
-
-        arraydocument[0] = "Rowlings, Harry Potter und der Stein der Weisen";
-        arraydocument[1] = "Tolkien , lordOfTheRings";
-        arraydocument[2] = "Susi, Bewerbung, CoolCompany";
+//
+//        String[] arraydocument = new arraydocument(3);
+//
+//
+//        arraydocument[0] = "Rowlings, Harry Potter und der Stein der Weisen";
+//        arraydocument[1] = "Tolkien , lordOfTheRings";
+//        arraydocument[2] = "Susi, Bewerbung, CoolCompany";
 
     }
 
